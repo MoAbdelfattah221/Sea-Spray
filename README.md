@@ -1,2 +1,2 @@
 # Sea-Spray
- This is a Responsive Landing Page 
+ This is a Responsive Landing Page for a Tourism Company
